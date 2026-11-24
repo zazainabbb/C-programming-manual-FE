@@ -1,12 +1,3 @@
-/*
- * Experiment 2 - Task 2
- * Aim: Find the sum of all the odd numbers between two numbers
- *      entered by the user.
- *
- * If the first number is larger than the second, they are swapped so
- * that the program works in either order. The two entered numbers are
- * not included ("between" the numbers).
- */
 #include <stdio.h>
 
 int main()

@@ -1,12 +1,3 @@
-/*
- * Experiment 1 - Task 2
- * Aim: Get a student's PCM marks from the user and find the average.
- *      Use the conditional operator to print whether the student is
- *      eligible for admission. Eligibility criteria: 50% in PCM.
- *
- * Marks of each subject are taken out of 100, so the average of the
- * three marks is also the percentage.
- */
 #include <stdio.h>
 
 int main()

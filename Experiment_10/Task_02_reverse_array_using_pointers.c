@@ -1,7 +1,3 @@
-/*
- * Experiment 10 - Task 2
- * Aim: Print the elements of an array in reverse order using pointers.
- */
 #include <stdio.h>
 
 int main()

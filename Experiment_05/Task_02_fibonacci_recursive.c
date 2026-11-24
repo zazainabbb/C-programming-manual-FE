@@ -1,8 +1,3 @@
-/*
- * Experiment 5 - Task 2
- * Aim: Generate the Fibonacci series for N terms using the
- *      RECURSIVE method (a function that calls itself).
- */
 #include <stdio.h>
 
 // Returns the term at position "position" (position 0 gives 0, 1 gives 1)

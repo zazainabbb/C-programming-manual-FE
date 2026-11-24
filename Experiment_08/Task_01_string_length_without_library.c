@@ -1,7 +1,3 @@
-/*
- * Experiment 8 - Task 1
- * Aim: Find the length of a string without using a library function.
- */
 #include <stdio.h>
 
 int main()
@@ -10,7 +6,7 @@ int main()
     int length = 0;
 
     printf("Enter a string: ");
-    fgets(text, sizeof(text), stdin);     // reads the whole line including spaces
+    fgets(text, sizeof(text), stdin);     
 
     // Count characters until the null character '\0' (or the newline from fgets)
     while (text[length] != '\0' && text[length] != '\n')

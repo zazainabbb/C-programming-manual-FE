@@ -1,7 +1,3 @@
-/*
- * Experiment 2 - Task 1
- * Aim: Find if the entered number is even or odd.
- */
 #include <stdio.h>
 
 int main()

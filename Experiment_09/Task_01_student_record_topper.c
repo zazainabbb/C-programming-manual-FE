@@ -1,9 +1,3 @@
-/*
- * Experiment 9 - Task 1
- * Aim: Design a structure student_record to contain name, roll_number
- *      and total marks obtained. Read the data of 5 students from the
- *      user and display the topper on the screen.
- */
 #include <stdio.h>
 
 #define STUDENTS 5
@@ -26,7 +20,7 @@ int main()
     {
         printf("\n--- Enter details of student %d ---\n", i + 1);
         printf("Name         : ");
-        scanf(" %49[^\n]", students[i].name);    // reads a name with spaces
+        scanf(" %49[^\n]", students[i].name); 
         printf("Roll number  : ");
         scanf("%d", &students[i].roll_number);
         printf("Total marks  : ");

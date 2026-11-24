@@ -1,7 +1,3 @@
-/*
- * Experiment 4 - Task 1
- * Aim: Find all the prime numbers between two numbers using functions.
- */
 #include <stdio.h>
 
 // Function declaration (prototype)

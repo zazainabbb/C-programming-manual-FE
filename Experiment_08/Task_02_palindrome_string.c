@@ -1,17 +1,10 @@
-/*
- * Experiment 8 - Task 2
- * Aim: Check if the entered string is a palindrome or not.
- *
- * A palindrome reads the same from both ends (example: madam).
- * The comparison is case-sensitive and spaces are treated as characters.
- */
 #include <stdio.h>
 
 int main()
 {
     char text[100];
     int length = 0, i;
-    int isPalindrome = 1;                 // 1 means palindrome (assumed at start)
+    int isPalindrome = 1;                
 
     printf("Enter a string: ");
     fgets(text, sizeof(text), stdin);

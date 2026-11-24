@@ -1,9 +1,3 @@
-/*
- * Experiment 7 - Task 2
- * Aim: Calculate the sum of two matrices.
- *
- * Both matrices must have the same number of rows and columns.
- */
 #include <stdio.h>
 
 int main()

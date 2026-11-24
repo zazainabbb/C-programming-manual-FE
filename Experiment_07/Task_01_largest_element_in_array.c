@@ -1,7 +1,3 @@
-/*
- * Experiment 7 - Task 1
- * Aim: Find the largest element in an array.
- */
 #include <stdio.h>
 
 int main()
